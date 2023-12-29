@@ -138,7 +138,49 @@ Develop a student management system with classes for individual students and a s
 
 ## Task 4: ATM Interface
 ### Description:
-Create an ATM interface with options for withdrawing, depositing, and checking the balance. Validate user input, display transaction messages, and connect the interface with the user's bank account class.
+Creating an ATM interface with options for withdrawing, depositing, and checking the balance. Validate user input, display transaction messages, and connect the interface with the user's bank account class.
+
+## How to Use the ATM:
+## Run the Program:
+Compile and run the ATMApp class.
+
+## ATM Menu:
+The program will display an ATM menu with options for Withdraw, Deposit, Check Balance, and Exit.
+
+## Choose an Option:
+Enter the corresponding number (1-4) for the desired option and press Enter.
+
+## Withdraw (Option 1):
+Enter the withdrawal amount when prompted.
+The program will display a message based on the success or failure of the withdrawal.
+
+## Deposit (Option 2):
+Enter the deposit amount when prompted.
+The program will display a message indicating the success of the deposit.
+
+## Check Balance (Option 3):
+Choose this option to check the current account balance.
+The program will display the current balance.
+
+## Exit (Option 4):
+Choose this option to exit the ATM application.
+
+## Features:
+**Withdraw:**
+Users can withdraw funds from their account.
+Input validation ensures sufficient balance and a valid withdrawal amount.
+
+**Deposit:**
+Users can deposit funds into their account.
+
+**Check Balance:**
+Users can check their current account balance.
+
+**Input Validation:**
+The program validates user input to ensure it is within acceptable limits.
+
+**Appropriate Messages:**
+The program displays appropriate messages based on the success or failure of transactions.
 
 ## Task 5: Address Book System
 ### Description:
