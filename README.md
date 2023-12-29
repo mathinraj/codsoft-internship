@@ -62,6 +62,10 @@ Typing "yes" will initiate a new round, while typing "no" will end the game.
 ### Description:
 Creating a word counting tool that takes user input or file content, counts the words, and provides additional features like ignoring common words, displaying unique words, and implementing input validation.
 
+## Task 3: Student Management System
+### Description:
+Develop a student management system with classes for individual students and a system to manage student data. Implement a user interface, methods for data storage, and input validation.
+
 ### How to Use the Student Management System:
 ### Run the Program:
 Compile and run the StudentManagementSystemApp class.
@@ -131,10 +135,6 @@ Choose option 4 to see a list of all students currently in the system.
 
 **Exiting the Application:**
 Choose option 5 to exit the program.
-
-## Task 3: Student Management System
-### Description:
-Develop a student management system with classes for individual students and a system to manage student data. Implement a user interface, methods for data storage, and input validation.
 
 ## Task 4: ATM Interface
 ### Description:
